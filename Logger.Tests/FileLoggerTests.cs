@@ -17,7 +17,7 @@ public class FileLoggerTests : FileLoggerTestsBase
         Logger.Log(LogLevel.Error, "Message1");
         Logger.Log(LogLevel.Error, "Message2");
 
-        string[] lines = await File.ReadAllLinesAsync(FilePath);
+        string[] lines = await File.ReadAllLinesAsync(FilePath, TestContext.Current.CancellationToken);
         Assert.True(lines is [..] and { Length: 2 });
         foreach (string[] line in lines.Select(line => line.Split(',', 4)))
         {
