@@ -24,6 +24,8 @@ For this assignment do the following:
 
 ## Fundamentals
 
+- Target all projects at .NET 10 (`net10.0`).
+- Use xUnit v3 with Microsoft Testing Platform (MTP) for unit tests.
 - Be sure you enable:
   - Nullability for all projects  ❌✔
   - Set `LangVersion` and the `TargetFramework` to the latest released versions available (preview versions optional) ❌✔
