@@ -10,6 +10,12 @@ For this assignment we are going to create a joke generator. For fun we will bac
 - Chapter 7 - Inheritance
 - Chapter 8 - Interfaces
 - Read Solid Principles at https://deviq.com/principles/solid.
+- SOLID videos by [Tim Corey](https://iamtimcorey.com)
+  - [Single Responsibility Principle](https://www.youtube.com/watch?v=5RwhyZnVRS8)
+  - [Open Closed Principle](https://www.youtube.com/watch?v=VFlk43QGEgc)
+  - [Liskov Substitution Principle](https://www.youtube.com/watch?v=-3UXq2krhyw)
+  - [Interface Segregation Principle](https://www.youtube.com/watch?v=y1JiMGP51NE)
+  - [Dependency Inversion Principle](https://www.youtube.com/watch?v=NnZZMkwI6KI)
 
 ## Assignment
 
