@@ -17,7 +17,7 @@ Next Week the reading is Chapters 4-6 so schedule accordingly. (It is a lot of r
 * Issue 1: Application no longer crashes ✔❌
 * Issue 2: Unit test properly passes ✔❌
 
-## Extra Credit
+## Extra Creditasdfasdfasdf
 
 * Come up with a new feature for the application
   * Issue 3: Add a new feature request implemented ✔❌
