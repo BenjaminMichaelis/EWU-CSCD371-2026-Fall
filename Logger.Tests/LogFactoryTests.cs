@@ -1,10 +1,9 @@
-﻿using Xunit;
-
 namespace Logger.Tests;
 
+[TestClass]
 public class LogFactoryTests : FileLoggerTestsBase
 {
-    [Fact]
+    [TestMethod]
     public void ConfigureFileLogger_GivenFilePath_ReturnsFileLoggerWithSetFilePath()
     {
         LogFactory logFactory = new();
