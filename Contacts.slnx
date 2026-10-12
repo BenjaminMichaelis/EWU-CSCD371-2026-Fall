@@ -8,6 +8,6 @@
     <File Path="global.json" />
     <File Path="README.md" />
   </Folder>
-  <Project Path="Logger.Tests/Logger.Tests.csproj" />
-  <Project Path="Logger/Logger.csproj" />
+  <Project Path="Contacts.Tests/Contacts.Tests.csproj" />
+  <Project Path="Contacts/Contacts.csproj" />
 </Solution>
